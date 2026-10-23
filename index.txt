@@ -2,3 +2,4 @@ Welcome to the Robotics Club
 Meetings on Fridays
 Open to all
 keep me
+Footer: club@example.com
