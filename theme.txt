@@ -1,1 +1,1 @@
-Colors: green
+Colors: blue and green
